@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<hr/>
 <!--
 **tik-217/tik-217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=tik-217&color=blue&style=for-the-badge)
-<hr/>
+
