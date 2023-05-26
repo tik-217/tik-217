@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[123](https://bit.ly/3N0LXZC)
-![<img src="https://raw.githubusercontent.com/tik-217/tik-217/main/profile-views.svg" height="50"/>](https://github.com/tik-217)
+![](https://komarev.com/ghpvc/?username=tik-217)
