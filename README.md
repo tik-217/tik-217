@@ -15,7 +15,7 @@
 </div>
 
 <h1 align="center">Приветсвую 👋</h1>
-<hr/>
+<!-- <hr/> -->
 
 <div>
   <h2>:avocado: Обо мне</h2>
@@ -26,8 +26,6 @@
     <li>:mag: Ищу возможность для работы волонтером или в команде</li>
   </ul>
 </div>
-
-<hr/>
 
 <div>
   <h2>Языки и технологии :hammer:</h2>
@@ -47,8 +45,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
 </div>
-
-<hr/>
 
 <h2>Мой статус</h2>
 
