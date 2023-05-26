@@ -1,8 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjFjMTc3ZWJiMzAyNmJjYzA5MDA0ZThkZGI4YTQwYjhjMmNhNDAyNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o72Fis3O08ru2BqQ8/giphy.gif" width="500"/>
 </div>
-
-### Hi there 👋
+<!-- https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge -->
+<h3>Hi there 👋</h3>
+Social Newtwork
+[](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)
 ------------------------------------------------
 <!--
 **tik-217/tik-217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
