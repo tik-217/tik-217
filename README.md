@@ -14,11 +14,11 @@
   <img src="https://komarev.com/ghpvc/?username=tik-217&color=blue&style=for-the-badge" alt="views">
 </div>
 
-<h3 align="center">Приветсвую 👋</h3>
+<h1 align="center">Приветсвую 👋</h1>
 <hr/>
 
 <div>
-  <h4>:avocado: Обо мне</h4>
+  <h2>:avocado: Обо мне</h2>
   <p>Я Frontend разработчик, со стажем более 2-ух лет, из России 🇷🇺.</p>
   <ul>
     <li>:dollar: Разрабатывал крупные проекты на фриланс</li>
@@ -30,7 +30,7 @@
 <hr/>
 
 <div>
-  <h4>Языки и технологии :hammer:</h4>
+  <h2>Языки и технологии :hammer:</h2>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -50,7 +50,7 @@
 
 <hr/>
 
-<h4>Мой статус</h4>
+<h2>Мой статус</h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tik-217&theme=dark&hide_border=true&locale=ru)](https://git.io/streak-stats)
 
