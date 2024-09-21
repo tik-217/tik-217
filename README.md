@@ -48,6 +48,4 @@
 
 <h2>Мой статус</h2>
 
-# [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tik-217&theme=dark&hide_border=true&locale=ru)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tik-217&theme=aura_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
