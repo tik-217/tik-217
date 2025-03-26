@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/tigran-gabulyan-368309267">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/tigran_gabulyan">
+  <a href="https://t.me/tigran_front">
     <img src="https://img.shields.io/badge/Telegram-%2326A5E4?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge" />
   </a>
 </div>
