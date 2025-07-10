@@ -3,7 +3,7 @@
 
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/tigran-gabulyan-368309267">
+  <a href="https://www.linkedin.com/in/tigran-front-368309267">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/tigran_front">
@@ -45,15 +45,11 @@
 
 <h2>📫 Связь</h2>
 <ul>
-  <li>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></li>
-  <li>Telegram: <a href="https://t.me/yourhandle" target="_blank">@yourhandle</a></li>
+  <li>Email: <a href="mailto:tigran.gabulyan.2001@mail.ru">tigran.gabulyan.2001@mail.ru</a></li>
+  <li>Telegram: <a href="https://t.me/tigran_front" target="_blank">@tigran_front</a></li>
   <li>LinkedIn: <a href="https://linkedin.com/in/your-profile" target="_blank">linkedin.com/in/your-profile</a></li>
 </ul>
 
 <blockquote>
   💡 <em>"Хорошая архитектура делает разработку приятной, поддержку простой, а масштабирование естественным."</em>
 </blockquote>
-
-<h2>Мой статус</h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tik-217&theme=aura_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
