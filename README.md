@@ -1,6 +1,5 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZkZDk1NjE3MDY1OGM2ZDFhZDVkMDRiNjM5NDM3NDcyMWViMTEyZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/tigran-front-368309267">
@@ -14,36 +13,36 @@
   <img src="https://komarev.com/ghpvc/?username=tik-217&color=blue&style=for-the-badge" alt="views">
 </div>
 
-<h2>👋 Привет!</h2>
+<h2>👋 Hello!</h2>
 <p>
-  Я — <strong>Middle Frontend-разработчик</strong>, специализируюсь на создании масштабируемых веб-приложений на базе <strong>React</strong> и <strong>TypeScript</strong>. 
-  Предпочитаю строгие архитектурные подходы, такие как <strong>Feature-Sliced Design (FSD)</strong>, и современные инструменты разработки.
+  I am a <strong>Middle Frontend Developer</strong> specializing in building scalable web applications using <strong>React</strong> and <strong>TypeScript</strong>. 
+  I prefer strict architectural approaches such as <strong>Feature-Sliced Design (FSD)</strong> and modern development tools.
 </p>
 
-<h2>🛠️ Стек и интересы</h2>
+<h2>🛠️ Tech Stack & Interests</h2>
 <ul>
-  <li><strong>Языки и фреймворки:</strong> React (включая Next.js), TypeScript, JavaScript (ES6+)</li>
-  <li><strong>Стилизация:</strong> TailwindCSS, PostCSS, shadcn/ui</li>
-  <li><strong>Состояние и данные:</strong> Redux Toolkit, React Query, Zustand</li>
-  <li><strong>Валидация и типизация:</strong> Zod, Yup, tRPC</li>
-  <li><strong>Инфраструктура и DX:</strong> ESLint, Prettier, Turbopack, Husky, Vite</li>
+  <li><strong>Languages & Frameworks:</strong> React (including Next.js), TypeScript, JavaScript (ES6+)</li>
+  <li><strong>Styling:</strong> TailwindCSS, PostCSS, shadcn/ui</li>
+  <li><strong>State & Data:</strong> Redux Toolkit, React Query, Zustand</li>
+  <li><strong>Validation & Typing:</strong> Zod, Yup, tRPC</li>
+  <li><strong>Infrastructure & DX:</strong> ESLint, Prettier, Turbopack, Husky, Vite</li>
 </ul>
 
-<h2>📐 Архитектура и подходы</h2>
+<h2>📐 Architecture & Approaches</h2>
 <ul>
-  <li>Использую <strong>FSD (Feature-Sliced Design)</strong> для поддерживаемой и модульной структуры</li>
-  <li>Слежу за <strong>чистотой зависимостей</strong> и <strong>Public API</strong> в модулях</li>
-  <li>Поддерживаю читаемый и масштабируемый код, особенно в больших проектах</li>
+  <li>I use <strong>FSD (Feature-Sliced Design)</strong> for maintainable and modular structure</li>
+  <li>I keep an eye on <strong>dependency cleanliness</strong> and <strong>Public API</strong> in modules</li>
+  <li>I maintain readable and scalable code, especially in large projects</li>
 </ul>
 
-<h2>🧪 Открыт к новому</h2>
+<h2>🧪 Open to Learning</h2>
 <ul>
-  <li>Увлекаюсь оптимизацией клиентской производительности</li>
-  <li>Интересуюсь современными UI/UX-практиками</li>
-  <li>Постоянно совершенствую навыки и слежу за новыми подходами в фронтенде</li>
+  <li>Passionate about optimizing client-side performance</li>
+  <li>Interested in modern UI/UX practices</li>
+  <li>Continuously improving skills and following new frontend approaches</li>
 </ul>
 
-<h2>📫 Связь</h2>
+<h2>📫 Contact</h2>
 <ul>
   <li>Email: <a href="mailto:tigran.gabulyan.2001@mail.ru">tigran.gabulyan.2001@mail.ru</a></li>
   <li>Telegram: <a href="https://t.me/tigran_front" target="_blank">@tigran_front</a></li>
@@ -51,5 +50,5 @@
 </ul>
 
 <blockquote>
-  💡 <em>"Хорошая архитектура делает разработку приятной, поддержку простой, а масштабирование естественным."</em>
+  💡 <em>"Good architecture makes development enjoyable, maintenance easy, and scaling natural."</em>
 </blockquote>
