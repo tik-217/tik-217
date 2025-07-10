@@ -47,7 +47,7 @@
 <ul>
   <li>Email: <a href="mailto:tigran.gabulyan.2001@mail.ru">tigran.gabulyan.2001@mail.ru</a></li>
   <li>Telegram: <a href="https://t.me/tigran_front" target="_blank">@tigran_front</a></li>
-  <li>LinkedIn: <a href="https://linkedin.com/in/your-profile" target="_blank">linkedin.com/in/your-profile</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/tigran-front-368309267" target="_blank">tigran-front-368309267</a></li>
 </ul>
 
 <blockquote>
