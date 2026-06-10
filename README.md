@@ -15,7 +15,7 @@
 
 <h2>👋 Hello!</h2>
 <p>
-  I am a <strong>Middle Frontend Developer</strong> specializing in building scalable web applications using <strong>React</strong> and <strong>TypeScript</strong>. 
+  I am a <strong>Frontend Developer</strong> specializing in building scalable web applications using <strong>React</strong> and <strong>TypeScript</strong>. 
   I prefer strict architectural approaches such as <strong>Feature-Sliced Design (FSD)</strong> and modern development tools.
 </p>
 
